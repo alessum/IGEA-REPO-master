@@ -1,0 +1,12 @@
+enum TestType {
+  PAP_TEST,
+  HPV_DNA,
+  MAMMOGRAPHY,
+  SOF,
+  BLOOD_TEST,
+  SCREENING_TEST,
+  ECO_TSA, // tronchi sovraortici
+  CARDIO_TEST,
+  GENERIC_TEST,
+  IN_DEPTH_TEST,
+}

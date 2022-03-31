@@ -1,0 +1,10 @@
+enum ParentType {
+  MOTHER,
+  FATHER,
+  UNCLE,
+  AUNT,
+  GRANDMA,
+  GRANDPA,
+  BROTHER,
+  SISTER
+}

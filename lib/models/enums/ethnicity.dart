@@ -1,0 +1,3 @@
+enum Ethnicity {
+  AFROAMERICANO, ALTRO
+}

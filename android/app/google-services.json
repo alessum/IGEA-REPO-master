@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760752036737",
+    "firebase_url": "https://igea-app-project.firebaseio.com",
+    "project_id": "igea-app-project",
+    "storage_bucket": "igea-app-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760752036737:android:e59314e66c2d8a1fc5a680",
+        "android_client_info": {
+          "package_name": "com.igea.igea_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760752036737-tcu7ejrkrg9ju5im3sab8i7d8p995d4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBbCyOwjJ8-y4i490tk2bKoPLGyXlMOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760752036737-tcu7ejrkrg9ju5im3sab8i7d8p995d4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

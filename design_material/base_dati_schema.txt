@@ -1,0 +1,87 @@
+- organo:
+	-nome:
+	-stato:
+		-colore
+		-icona path
+		-messaggio
+	-immagine path
+	-descrizione
+	-attivo: true/false
+	-positivo: true/false
+	-prossima data esame
+	- lista di test
+		-HBc-i0sh0assafs:
+			-nome: Mammografia
+			-tipo: MAMMOGRAFIA
+			-cod_hl7:
+			-descrizione:
+			-multimedia: (path)
+			-esito:
+				-neg
+				-dubbio
+				-valori (esame del sangue)
+			-prenotazione
+				-data e ora 
+				-luogo
+				-note
+			-fatto : true/false
+	
+	- vaccino hpv (utero)
+	- familiarità (mammella/colon retto?)
+	- fumatore (cuore) bool
+	- diabetico(cuore) bool
+	- trigliceridi(cuore) float mg/dl
+	- colesterolo tot(cuore) float mg/dl
+	- colesterolo hdl(cuore) float mg/dl
+	- colesterolo ldl(cuore) float mg/dl
+	- pressione sistolica(cuore) float
+	- ipertensione(cuore) float
+
+-test:
+	-nome
+	-tipo
+	-descrizione
+	-esito:
+		-neg
+		-dubbio
+		-valori (esame del sangue)
+	-prenotazione
+		-data
+		-luogo
+	-fatto
+
+
+-utente
+	-nome
+	-cognome
+	-data nascita
+	-regione domicilio
+	-codice fiscale
+	-sesso
+	-wallet
+		-crediti
+		-coupon
+	-mie_domande:
+		-kljdhsncdsuib (sbloccata)
+	-domanda_errata:
+		-kljdhsncdsuib
+
+-quiz_generico:
+	-yvcua-rf29f:
+		domanda
+		risposta1
+		risposta2
+		risposta3
+		risposta corretta
+
+prevenzione
+	-kljdhsncdsuib
+		-titolo
+		-descrizione
+		-topic
+		-question:
+			domanda
+			risposta1
+			risposta2
+			risposta3
+			risposta corretta

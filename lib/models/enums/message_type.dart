@@ -1,0 +1,4 @@
+enum PrevengoMessageType {
+  CHATBOT,
+  USER,
+}

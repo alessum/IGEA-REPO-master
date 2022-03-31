@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "igea-app-project",
+  "private_key_id": "dfee65c301f228b62c5d2782d97a905371eb1ab4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtJn/nt9gcNTfR\nf1ttJKoxnuyHEyOr0dX48Fyfws2dyxOVf4VH3BbHtgjFMxECjRIeFtNheeY2I3tc\n7ArNz5yiybxjLwiIekgvJJKV/R49jhHj4CkGBdnVmw/kcSVM8FFrn7MLh5NLJmI9\n38FYMj9Cs2/et2DP0aKejLYauhLnSl33yeQybux+Mimzgcn2gkEz1vTe0b5LXZEI\n+hskba7D7EBEGokt1BlveOgTmLiN+ow2pmsA/mmyW7vVzcnTf4NEnaKnup7ofQgw\nCkCW9FYVuDc2dTjhltLpy/T+1K7N28eoSquuG/upbKMNxu1Bs5ViTTnSrVQo3TAR\ndX7KAwLxAgMBAAECggEACTMUdKFF8Cm7r3vOxbu+9yf0dTDFImnhrnpG0Y4uEoYp\nojXGRQ0igLXhPWj7LGGGZubbkEBDxPiZo1Q/NrQjJFsHkVV8ZJPqpeaRizqJkser\nl6nfRByneDvm2kJQswfJq6gugRxQ7Rs6+QKcaS0yQz75YKHpmOEQfNAJFN5yBqvM\nSxM7RbuMZ77ayr2lvqomxB344A0VH2ARIngbQUfGYwGXZsgYQ7cE2H9F9BOh+X5s\nyLauMvWihhZ7c6dT/6ZcsVQi7ugKXy299vrf3AbLIo6Wm/yPEgu0gEkPE4dNGR6P\nb3HwWnyFUqw3o9OJxhQ3Kn7BhNFivJa85cM6gosmyQKBgQDuR6+TSO4XD4feVb4Q\nbFRBiurlFcR6jpwhUAM9wsyAAGPTQ0ft8Thlf8LVTyxmOsNPKojXgfnk9PGLN41A\ndB6NTBU2uO5QFtvoFBUWF3YYUrY1FFamlv6gtLccVDX0i2qaoK8eYXbrAQyupRyO\nIIa7T8TLg8U5JhdAf3QRzucS4wKBgQC6BuR5IXdED0oW5uwgJu8bSLPRlby/EmTD\nM/J5Snfja8Af7QJRb4mTVCHSaSP5IoP5Uwdz6Jsgn+61YxV6mLLWhs77hB7/nuQ9\nUUWu6qOBJ5rYoAxoVwk7LXe0mRgjXRTwmFfHynLKblO6LVItBDVvj9GCe/tml55F\nszpPltn3GwKBgQC/yQkjZgbknsaACMlDFL44RuTLYFrVPiWilnEVa84HlMjESRoD\nBS2cXFnoMKKO4etDs/uSYfZN92zW3e6eGxhgKAXHFtARvGRhhpB2SInwB9rKHEWm\nLlBh7zKW5ZzL6M70CDMLI+2AN0cK5rB2IO3wo8LE/5llZyg97JfyoXLRewKBgALD\nw3WBZ9JdH87DU9MOgRM4u2NsBEgar+CuzvW6g5mfqlVPIm+vZq4H3BDSezRirO9x\nqnSwik2r0tJjTJhr2IyTqFPYnNVTuTSoFo8I8bEjs4twpX6PfJWikVrfw5oS8hK5\nUOSpP5d+mEP2FHiSzXCBBK4ZxZy6uCF1DnLMXSTtAoGBAKro0y3AY1whagifXTOh\n9WgTi5aS5AGVfPXS5VFAMI/gyjCqMyWSYBT3tipR4RcftVQjntTOBZZDYtcXi3Z8\ni6Pbm1GrBEPB6nVesvDYoPhG54XAmi3Ccke/GCCM69Rjsv//tmqETNdHyGm1W2sd\nuE9KtA4bQMuq7LYpIVLz+fPH\n-----END PRIVATE KEY-----\n",
+  "client_email": "igea-dialogflow-service@igea-app-project.iam.gserviceaccount.com",
+  "client_id": "115155314109180617968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/igea-dialogflow-service%40igea-app-project.iam.gserviceaccount.com"
+}
