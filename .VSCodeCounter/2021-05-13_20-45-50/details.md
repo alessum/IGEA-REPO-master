@@ -75,7 +75,7 @@ Total : 364 files,  54698 codes, 4275 comments, 2498 blanks, all 61471 lines
 | [assets/icons/exam.svg](/assets/icons/exam.svg) | XML | 1 | 0 | 0 | 1 |
 | [assets/icons/happy.svg](/assets/icons/happy.svg) | XML | 1 | 0 | 0 | 1 |
 | [assets/icons/heart.svg](/assets/icons/heart.svg) | XML | 1 | 0 | 0 | 1 |
-| [assets/animations/igea-app-project-dfee65c301f2.json](/assets/animations/igea-app-project-dfee65c301f2.json) | JSON | 12 | 0 | 1 | 13 |
+| [assets/igea-app-project-dfee65c301f2.json](/assets/igea-app-project-dfee65c301f2.json) | JSON | 12 | 0 | 1 | 13 |
 | [assets/icons/info.svg](/assets/icons/info.svg) | XML | 1 | 0 | 0 | 1 |
 | [assets/icons/info_white.svg](/assets/icons/info_white.svg) | XML | 1 | 0 | 0 | 1 |
 | [assets/lateal_icons/umbrella.svg](/assets/lateal_icons/umbrella.svg) | XML | 1 | 0 | 0 | 1 |

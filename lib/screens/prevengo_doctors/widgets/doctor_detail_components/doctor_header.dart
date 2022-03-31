@@ -30,7 +30,7 @@ class DoctorHeader extends StatelessWidget {
           children: [
             Container(
               child: Image.asset(
-                'assets/icons/doctor.png',
+                'assets/avatars/doctor.png',
                 width: media.width * .2,
               ),
             ),

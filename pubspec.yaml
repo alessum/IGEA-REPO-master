@@ -96,15 +96,11 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
    - assets/
-   - assets/animations/igea-app-project-dfee65c301f2.json
-   - assets/external_png/
+   - assets/external/
    - assets/logo/
    - assets/icons/
-   - assets/arold/
+   - assets/avatars/
    - assets/animations/
-  #  - assets/2.0x/
-  #  - assets/3.0x/
-  #  - assets/4.0x/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

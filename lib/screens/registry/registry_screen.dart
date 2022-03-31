@@ -42,7 +42,7 @@ class _RegistryScreenState extends State<RegistryScreen> {
                   height: 125,
                   width: 125,
                   child: Image(
-                    image: AssetImage('assets/icons/doctor_women_face.png'),
+                    image: AssetImage('assets/avatars/doctor_women_face.png'),
                     fit: BoxFit.contain,
                   ),
                 ),

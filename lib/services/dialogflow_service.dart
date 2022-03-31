@@ -1,7 +1,7 @@
 import 'package:dialog_flowtter/dialog_flowtter.dart';
 
 class DialogFlowService {
-  String _apiPath = 'assets/animations/igea-app-project-dfee65c301f2.json';
+  String _apiPath = 'assets/igea-app-project-dfee65c301f2.json';
 
   static final DialogFlowService _dialogFlowService = DialogFlowService._internal();
   DialogFlowService._internal();
